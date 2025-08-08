@@ -2,7 +2,24 @@
   "name": "Noktra",
   "symbol": "NOK",
   "description": "Noktra is my personal dream turned into reality. Fueled by passion, faith, and a desire to create something meaningful, this project isn’t just a token—it’s a feeling. Thank you for being part of the journey. Noktra will grow, evolve, and leave its mark on the world—until everyone has heard its name.",
-  "image": "https://link_do_logo_512.png",
+  "image": "https://raw.githubusercontent.com/Robert710aa/noktra-start-static/main/logo.png",
   "decimals": 9,
-  "mint": "6u5PLy9ePpuGEBK3kmQ9isVDFjqSurKpvmCFzheDgQke"
+  "mint": "6u5PLy9ePpuGEBK3kmQ9isVDFjqSurKpvmCFzheDgQke",
+  "external_url": "https://robert710aa.github.io/noktra-start-static/",
+  "tags": [
+    "solana",
+    "token"
+  ],
+  "extensions": {
+    "website": "https://robert710aa.github.io/noktra-start-static/"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Robert710aa/noktra-start-static/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
