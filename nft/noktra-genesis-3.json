@@ -1,0 +1,17 @@
+{
+  "name": "Noktra Genesis #3",
+  "symbol": "NOKNFT",
+  "description": "Noktra Genesis — unique 1/1 artwork from the Noktra collection.",
+  "image": "https://raw.githubusercontent.com/Robert710aa/noktra-start-static/main/889DE7F5-6899-4172-A704-6EC2F9E3114A.png",
+  "external_url": "https://robert710aa.github.io/noktra-start-static/",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Robert710aa/noktra-start-static/main/889DE7F5-6899-4172-A704-6EC2F9E3114A.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
